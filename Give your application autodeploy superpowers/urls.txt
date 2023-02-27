@@ -1,0 +1,2 @@
+Public Url to GitHub repository[URL01]: https://github.com/DudeGFA/cdond-c3-projectstarter
+S3 bucket url[URLO2]: http://udapeople-4458ca2.s3-website-us-east-1.amazonaws.com
